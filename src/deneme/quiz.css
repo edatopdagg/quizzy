@@ -1,0 +1,76 @@
+/* Arka plan ve genel yapı */
+body {
+  background: linear-gradient(135deg, #74ebd5 0%, #7ab5f7 50%, #ACB6E5 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+/* Kart alanı */
+.card {
+  border: none;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 700px;
+}
+
+/* Başlık */
+#category-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #2bbab7;
+}
+
+/* Başlat butonu */
+#start-btn {
+  font-size: 1.2rem;
+  padding: 12px 30px;
+  background-color: #2bbab7;
+  border: none;
+  transition: 0.3s ease;
+}
+
+#start-btn:hover {
+  background-color: #39efec;
+  transform: scale(1.05);
+}
+
+/* Seçenek butonları */
+button.btn-outline-primary {
+  border-color: #3a7bd5;
+  color: #3a7bd5;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+button.btn-outline-primary:hover {
+  background-color: #3a7bd5;
+  color: white;
+}
+
+/* Soru metni */
+#soru-text {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+/* Sonuç kısmı */
+#sonuc {
+  background-color: #e0efff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#sonuc h3 {
+  font-weight: bold;
+  color: #198754;
+}
+
+#sonuc p {
+  font-size: 1.2rem;
+}

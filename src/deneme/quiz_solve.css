@@ -1,0 +1,62 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #74ebd5 0%, #7ab5f7 50%, #ACB6E5 100%);
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.quiz-container {
+  max-width: 500px;
+  width: 100%;
+}
+
+.category-card {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, background 0.3s ease;
+  cursor: pointer;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.card-body {
+  font-size: 1.2rem;
+  padding: 20px;
+}
+
+
+/* Animasyon */
+@keyframes floatAnimation {
+  0% { transform: translate(0px, 0px) rotate(0deg); }
+  25% { transform: translate(50px, -30px) rotate(90deg); }
+  50% { transform: translate(-30px, 50px) rotate(180deg); }
+  75% { transform: translate(40px, 20px) rotate(270deg); }
+  100% { transform: translate(0px, 0px) rotate(360deg); }
+}
+.background-images img {
+  position: absolute;
+  width: 100px;
+  animation: floatAnimation 30s infinite alternate ease-in-out;
+  pointer-events: none;
+}
+.background-images img {
+  position: absolute;
+  width: 100px;
+  animation: floatAnimation 30s infinite alternate ease-in-out;
+  pointer-events: none;
+}

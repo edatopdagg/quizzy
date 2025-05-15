@@ -1,0 +1,1010 @@
+{
+  "quiz": {
+    "genel_kültür": [
+      {
+        "soru": "Türkiye'nin en büyük yüzölçümüne sahip ili hangisidir?",
+        "secenekler": ["Konya", "Ankara", "Sivas", "Antalya"],
+        "dogru_cevap": "Konya"
+      },
+      {
+        "soru": "UNESCO Dünya Mirası Listesi'nde yer alan Pamukkale hangi ilimizde bulunur?",
+        "secenekler": ["Aydın", "Denizli", "Isparta", "Muğla"],
+        "dogru_cevap": "Denizli"
+      },
+      {
+        "soru": "Bir yıl kaç saniyedir (ortalama)?",
+        "secenekler": ["31.536.000", "30.000.000", "32.000.000", "31.000.000"],
+        "dogru_cevap": "31.536.000"
+      },
+      {
+        "soru": "Türkiye'nin telefon alan kodu nedir?",
+        "secenekler": ["+91", "+90", "+94", "+98"],
+        "dogru_cevap": "+90"
+      },
+      {
+        "soru": "Dünyanın en uzun nehri hangisidir?",
+        "secenekler": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+        "dogru_cevap": "Nil"
+      },
+      {
+        "soru": "Hangisi bir gezegen değildir?",
+        "secenekler": ["Mars", "Venüs", "Plüton", "Ay"],
+        "dogru_cevap": "Ay"
+      },
+      {
+        "soru": "Bir haftada kaç saat vardır?",
+        "secenekler": ["148", "168", "158", "178"],
+        "dogru_cevap": "168"
+      },
+      {
+        "soru": "Hangi elementin simgesi 'O'dur?",
+        "secenekler": ["Oksijen", "Altın", "Gümüş", "Kurşun"],
+        "dogru_cevap": "Oksijen"
+      },
+      {
+        "soru": "Dünyanın en yüksek dağı hangisidir?",
+        "secenekler": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+        "dogru_cevap": "Everest"
+      },
+      {
+        "soru": "İlk yazılı anayasayı kabul eden ülke hangisidir?",
+        "secenekler": ["ABD", "Fransa", "İngiltere", "Almanya"],
+        "dogru_cevap": "ABD"
+      },
+      {
+        "soru": "Hangisi bir asal sayıdır?",
+        "secenekler": ["15", "17", "21", "27"],
+        "dogru_cevap": "17"
+      },
+      {
+        "soru": "Dünyanın en büyük okyanusu hangisidir?",
+        "secenekler": ["Atlantik", "Hint", "Arktik", "Pasifik"],
+        "dogru_cevap": "Pasifik"
+      },
+      {
+        "soru": "Hangisi bir edebi tür değildir?",
+        "secenekler": ["Roman", "Şiir", "Deneme", "Resim"],
+        "dogru_cevap": "Resim"
+      },
+      {
+        "soru": "Türkiye'nin en uzun nehri hangisidir?",
+        "secenekler": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
+        "dogru_cevap": "Kızılırmak"
+      },
+      {
+        "soru": "Hangisi bir element değildir?",
+        "secenekler": ["Su", "Demir", "Altın", "Gümüş"],
+        "dogru_cevap": "Su"
+      },
+      {
+        "soru": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+        "secenekler": ["Karadeniz - Marmara", "Ege - Akdeniz", "Marmara - Ege", "Karadeniz - Ege"],
+        "dogru_cevap": "Karadeniz - Marmara"
+      },
+      {
+        "soru": "Hangisi bir hayvan türü değildir?",
+        "secenekler": ["Kedi", "Köpek", "Araba", "Kuş"],
+        "dogru_cevap": "Araba"
+      },
+      {
+        "soru": "Türkiye'nin başkenti neresidir?",
+        "secenekler": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+        "dogru_cevap": "Ankara"
+      },
+      {
+        "soru": "Dünyanın en kalabalık ülkesi hangisidir?",
+        "secenekler": ["Hindistan", "Çin", "ABD", "Endonezya"],
+        "dogru_cevap": "Çin"
+      },
+      {
+        "soru": "Hangisi bir müzik aleti değildir?",
+        "secenekler": ["Gitar", "Piyano", "Davul", "Kalem"],
+        "dogru_cevap": "Kalem"
+      },
+      {
+        "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+        "secenekler": ["Ağrı", "Erciyes", "Kaçkar", "Süphan"],
+        "dogru_cevap": "Ağrı"
+      },
+      {
+        "soru": "Hangisi bir gezegen değildir?",
+        "secenekler": ["Jüpiter", "Satürn", "Venüs", "Güneş"],
+        "dogru_cevap": "Güneş"
+      },
+      {
+        "soru": "Dünyanın en büyük çölü hangisidir?",
+        "secenekler": ["Sahra", "Gobi", "Kalahari", "Antarktika"],
+        "dogru_cevap": "Antarktika"
+      },
+      {
+        "soru": "Hangisi bir dil değildir?",
+        "secenekler": ["İngilizce", "Fransızca", "Almanca", "Matematik"],
+        "dogru_cevap": "Matematik"
+      },
+      {
+        "soru": "Türkiye'nin en büyük gölü hangisidir?",
+        "secenekler": ["Tuz Gölü", "Van Gölü", "Beyşehir Gölü", "Eğirdir Gölü"],
+        "dogru_cevap": "Van Gölü"
+      },
+      {
+        "soru": "Hangisi bir meyve değildir?",
+        "secenekler": ["Elma", "Armut", "Karpuz", "Havuç"],
+        "dogru_cevap": "Havuç"
+      },
+      {
+        "soru": "Dünyanın en yüksek şelalesi hangisidir?",
+        "secenekler": ["Niagara", "Victoria", "Angel", "Iguazu"],
+        "dogru_cevap": "Angel"
+      },
+      {
+        "soru": "Hangisi bir hayvan değildir?",
+        "secenekler": ["Aslan", "Kaplan", "Leopar", "Koltuk"],
+        "dogru_cevap": "Koltuk"
+      },
+      {
+        "soru": "Türkiye'nin en uzun tüneli hangisidir?",
+        "secenekler": ["Ovit Tüneli", "Zigana Tüneli", "Bolu Tüneli", "Ordu Tüneli"],
+        "dogru_cevap": "Ovit Tüneli"
+      },
+      {
+        "soru": "Hangisi bir sebze değildir?",
+        "secenekler": ["Domates", "Patates", "Muz", "Havuç"],
+        "dogru_cevap": "Muz"
+      },
+      {
+        "soru": "Dünyanın en büyük adası hangisidir?",
+        "secenekler": ["Avustralya", "Grönland", "Borneo", "Madagaskar"],
+        "dogru_cevap": "Grönland"
+      },
+      {
+        "soru": "Hangisi bir renk değildir?",
+        "secenekler": ["Kırmızı", "Mavi", "Yeşil", "Tatlı"],
+        "dogru_cevap": "Tatlı"
+      },
+      {
+        "soru": "Türkiye'nin en uzun köprüsü hangisidir?",
+        "secenekler": [
+          "15 Temmuz Şehitler Köprüsü",
+          "Fatih Sultan Mehmet Köprüsü",
+          "Yavuz Sultan Selim Köprüsü",
+          "1915 Çanakkale Köprüsü"
+        ],
+        "dogru_cevap": "1915 Çanakkale Köprüsü"
+      },
+      {
+        "soru": "Hangisi bir içecek değildir?",
+        "secenekler": ["Su", "Çay", "Kahve", "Ekmek"],
+        "dogru_cevap": "Ekmek"
+      },
+      {
+        "soru": "Dünyanın en derin gölü hangisidir?",
+        "secenekler": ["Baykal", "Tanganika", "Hazar", "Superior"],
+        "dogru_cevap": "Baykal"
+      },
+      {
+        "soru": "Hangisi bir ulaşım aracı değildir?",
+        "secenekler": ["Araba", "Uçak", "Tren", "Masa"],
+        "dogru_cevap": "Masa"
+      },
+      {
+        "soru": "Türkiye'nin en büyük adası hangisidir?",
+        "secenekler": ["Gökçeada", "Bozcaada", "Marmara Adası", "Avşa Adası"],
+        "dogru_cevap": "Gökçeada"
+      }
+    ],
+    "spor": [
+      {
+        "soru": "FIFA Dünya Kupası'nı en çok kazanan ülke hangisidir?",
+        "secenekler": ["Almanya", "Arjantin", "Brezilya", "İtalya"],
+        "dogru_cevap": "Brezilya"
+      },
+      {
+        "soru": "NBA'de en çok şampiyonluk kazanan takım hangisidir?",
+        "secenekler": ["Chicago Bulls", "Boston Celtics", "Los Angeles Lakers", "Golden State Warriors"],
+        "dogru_cevap": "Boston Celtics"
+      },
+      {
+        "soru": "Cristiano Ronaldo'nun 2022 yılında transfer olduğu kulüp hangisidir?",
+        "secenekler": ["Manchester United", "Real Madrid", "Al Nassr", "Juventus"],
+        "dogru_cevap": "Al Nassr"
+      },
+      {
+        "soru": "Teniste dört büyük turnuvaya ne ad verilir?",
+        "secenekler": ["Major Series", "Masters 1000", "Grand Slam", "ATP 500"],
+        "dogru_cevap": "Grand Slam"
+      },
+      {
+        "soru": "Formula 1'de 7 dünya şampiyonluğu bulunan pilot kimdir?",
+        "secenekler": ["Michael Schumacher", "Lewis Hamilton", "Sebastian Vettel", "Fernando Alonso"],
+        "dogru_cevap": "Lewis Hamilton"
+      },
+      {
+        "soru": "2020 Tokyo Olimpiyatları hangi yıl düzenlenmiştir?",
+        "secenekler": ["2019", "2020", "2021", "2022"],
+        "dogru_cevap": "2021"
+      },
+      {
+        "soru": "Euro 2024 hangi ülkede düzenlenecek?",
+        "secenekler": ["Fransa", "İngiltere", "İtalya", "Almanya"],
+        "dogru_cevap": "Almanya"
+      },
+      {
+        "soru": "Messi 2022 Dünya Kupası'nı hangi ülkede kazandı?",
+        "secenekler": ["Katar", "Arjantin", "Fransa", "Brezilya"],
+        "dogru_cevap": "Katar"
+      },
+      {
+        "soru": "Türkiye Milli Futbol Takımı, 2002 Dünya Kupası'nda kaçıncı olmuştur?",
+        "secenekler": ["1.", "2.", "3.", "4."],
+        "dogru_cevap": "3."
+      },
+      {
+        "soru": "Süper Lig tarihinde en çok şampiyon olan takım hangisidir?",
+        "secenekler": ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Trabzonspor"],
+        "dogru_cevap": "Galatasaray"
+      },
+      {
+        "soru": "NBA'de forma giyen ilk Türk basketbolcu kimdir?",
+        "secenekler": ["Mehmet Okur", "Hidayet Türkoğlu", "Mirsad Türkcan", "Ersan İlyasova"],
+        "dogru_cevap": "Mirsad Türkcan"
+      },
+      {
+        "soru": "2023 yılında Şampiyonlar Ligi finali nerede oynandı?",
+        "secenekler": ["İstanbul", "Londra", "Münih", "Paris"],
+        "dogru_cevap": "İstanbul"
+      },
+      {
+        "soru": "Voleybolun sahadaki oyuncu sayısı kaçtır (bir takımda)?",
+        "secenekler": ["5", "6", "7", "8"],
+        "dogru_cevap": "6"
+      },
+      {
+        "soru": "Bir futbol maçında her devre kaç dakikadır?",
+        "secenekler": ["40", "45", "50", "60"],
+        "dogru_cevap": "45"
+      },
+      {
+        "soru": "Usain Bolt hangi spor dalında tanınır?",
+        "secenekler": ["Futbol", "Basketbol", "Atletizm", "Yüzme"],
+        "dogru_cevap": "Atletizm"
+      },
+      {
+        "soru": "Türkiye'nin en başarılı kadın milli voleybolcusu kimdir?",
+        "secenekler": ["Neslihan Demir", "Eda Erdem", "Zehra Güneş", "Gözde Kırdar"],
+        "dogru_cevap": "Neslihan Demir"
+      },
+      {
+        "soru": "NBA 2023 MVP’si kim seçilmiştir?",
+        "secenekler": ["Giannis Antetokounmpo", "Nikola Jokic", "Joel Embiid", "Stephen Curry"],
+        "dogru_cevap": "Joel Embiid"
+      },
+      {
+        "soru": "Türkiye, Avrupa Futbol Şampiyonası’nda ilk kez hangi yıl yer aldı?",
+        "secenekler": ["1996", "2000", "2008", "2012"],
+        "dogru_cevap": "1996"
+      },
+      {
+        "soru": "Wimbledon hangi şehirde düzenlenir?",
+        "secenekler": ["Londra", "Paris", "New York", "Melbourne"],
+        "dogru_cevap": "Londra"
+      },
+      {
+        "soru": "Milli güreşçimiz Taha Akgül hangi sıklette yarışır?",
+        "secenekler": ["74 kg", "86 kg", "97 kg", "125 kg"],
+        "dogru_cevap": "125 kg"
+      },
+      {
+        "soru": "Maradona'nın 'Tanrının Eli' golünü attığı ülke maçı hangisidir?",
+        "secenekler": ["İngiltere", "Almanya", "İtalya", "Brezilya"],
+        "dogru_cevap": "İngiltere"
+      },
+      {
+        "soru": "Roger Federer toplam kaç Grand Slam şampiyonluğu kazanmıştır?",
+        "secenekler": ["18", "19", "20", "21"],
+        "dogru_cevap": "20"
+      },
+      {
+        "soru": "NBA'de 100 sayı atan tek oyuncu kimdir?",
+        "secenekler": ["Kobe Bryant", "Michael Jordan", "Wilt Chamberlain", "Shaquille O’Neal"],
+        "dogru_cevap": "Wilt Chamberlain"
+      },
+      {
+        "soru": "En fazla olimpiyat madalyası kazanan sporcu kimdir?",
+        "secenekler": ["Michael Phelps", "Usain Bolt", "Carl Lewis", "Mark Spitz"],
+        "dogru_cevap": "Michael Phelps"
+      },
+      {
+        "soru": "Türkiye, ilk kez Avrupa Voleybol Şampiyonası’nı ne zaman kazandı?",
+        "secenekler": ["2021", "2023", "2019", "2017"],
+        "dogru_cevap": "2023"
+      },
+      {
+        "soru": "Fransa Ligue 1'de en çok şampiyon olan kulüp hangisidir?",
+        "secenekler": ["Paris Saint-Germain", "Lyon", "Marseille", "Saint-Étienne"],
+        "dogru_cevap": "Saint-Étienne"
+      },
+      {
+        "soru": "2022 Katar Dünya Kupası'nın en iyi oyuncusu kim seçildi?",
+        "secenekler": ["Mbappe", "Messi", "Modric", "Hakimi"],
+        "dogru_cevap": "Messi"
+      },
+      {
+        "soru": "Türkiye Futbol Federasyonu hangi yılda kuruldu?",
+        "secenekler": ["1921", "1923", "1926", "1930"],
+        "dogru_cevap": "1923"
+      },
+      {
+        "soru": "2023 NBA şampiyonu hangi takımdır?",
+        "secenekler": ["Miami Heat", "Denver Nuggets", "Golden State Warriors", "Boston Celtics"],
+        "dogru_cevap": "Denver Nuggets"
+      },
+      {
+        "soru": "Gol atan ilk Türk kadın futbolcu kimdir?",
+        "secenekler": ["Ebru Topçu", "Yağmur Uraz", "Didem Karagenç", "Lale Orta"],
+        "dogru_cevap": "Lale Orta"
+      },
+      {
+        "soru": "Bir basketbol maçında çeyrek süresi kaç dakikadır?",
+        "secenekler": ["10", "12", "15", "8"],
+        "dogru_cevap": "10"
+      },
+      {
+        "soru": "UEFA Avrupa Ligi’nin eski adı nedir?",
+        "secenekler": ["Şampiyonlar Kupası", "Kupa Galipleri Kupası", "UEFA Kupası", "Intertoto Kupası"],
+        "dogru_cevap": "UEFA Kupası"
+      },
+      {
+        "soru": "Türkiye, olimpiyatlarda ilk altın madalyasını hangi sporda almıştır?",
+        "secenekler": ["Güreş", "Atletizm", "Halter", "Okçuluk"],
+        "dogru_cevap": "Güreş"
+      },
+      {
+        "soru": "2024 Paris Olimpiyatları kaçıncı olimpiyat olacak?",
+        "secenekler": ["31.", "32.", "33.", "34."],
+        "dogru_cevap": "33."
+      },
+      {
+        "soru": "UEFA'nın merkezi nerededir?",
+        "secenekler": ["Londra", "Nyon", "Zürih", "Brüksel"],
+        "dogru_cevap": "Nyon"
+      },
+      {
+        "soru": "Kadınlar dünya voleybol şampiyonasında 2022 şampiyonu kimdir?",
+        "secenekler": ["Türkiye", "İtalya", "Sırbistan", "Brezilya"],
+        "dogru_cevap": "Sırbistan"
+      },
+      {
+        "soru": "Bir hentbol takımında sahada kaç oyuncu bulunur?",
+        "secenekler": ["5", "6", "7", "8"],
+        "dogru_cevap": "7"
+      },
+      {
+        "soru": "Ronaldo (Brezilyalı) en son hangi kulüpte oynamıştır?",
+        "secenekler": ["Barcelona", "Real Madrid", "AC Milan", "Corinthians"],
+        "dogru_cevap": "Corinthians"
+      },
+      {
+        "soru": "Futbolda VAR sistemi ilk kez hangi turnuvada kullanıldı?",
+        "secenekler": ["2016 Euro", "2018 Dünya Kupası", "2019 Copa America", "2020 Euro"],
+        "dogru_cevap": "2018 Dünya Kupası"
+      },
+      {
+        "soru": "2023 FIFA Kadınlar Dünya Kupası’nı kim kazandı?",
+        "secenekler": ["İngiltere", "ABD", "İspanya", "Almanya"],
+        "dogru_cevap": "İspanya"
+      }
+    ],
+    "dünya_tarihi": [
+      {
+        "soru": "1. Dünya Savaşı hangi yıl başladı?",
+        "secenekler": ["1912", "1914", "1916", "1918"],
+        "dogru_cevap": "1914"
+      },
+      {
+        "soru": "Amerikan Bağımsızlık Bildirgesi hangi yıl ilan edildi?",
+        "secenekler": ["1776", "1783", "1801", "1750"],
+        "dogru_cevap": "1776"
+      },
+      {
+        "soru": "Napolyon Bonapart hangi ülkenin lideriydi?",
+        "secenekler": ["İspanya", "Almanya", "Fransa", "İtalya"],
+        "dogru_cevap": "Fransa"
+      },
+      {
+        "soru": "Berlin Duvarı hangi yıl yıkıldı?",
+        "secenekler": ["1987", "1989", "1991", "1993"],
+        "dogru_cevap": "1989"
+      },
+      {
+        "soru": "Hitler'in lideri olduğu parti hangisiydi?",
+        "secenekler": ["Komünist Parti", "Nazi Partisi", "Faşist Parti", "Yeşiller Partisi"],
+        "dogru_cevap": "Nazi Partisi"
+      },
+      {
+        "soru": "Soğuk Savaş döneminde iki süper güç hangileriydi?",
+        "secenekler": ["ABD ve Japonya", "ABD ve Çin", "ABD ve SSCB", "SSCB ve Almanya"],
+        "dogru_cevap": "ABD ve SSCB"
+      },
+      {
+        "soru": "İlk Çağ’da yazıyı hangi uygarlık icat etti?",
+        "secenekler": ["Mısırlar", "Çinliler", "Sümerler", "Yunanlar"],
+        "dogru_cevap": "Sümerler"
+      },
+      {
+        "soru": "Rönesans hangi ülkede başlamıştır?",
+        "secenekler": ["Fransa", "İtalya", "İngiltere", "Almanya"],
+        "dogru_cevap": "İtalya"
+      },
+      {
+        "soru": "II. Dünya Savaşı sırasında Japonya'ya atılan atom bombası hangi iki şehri vurdu?",
+        "secenekler": ["Tokyo ve Osaka", "Nagasaki ve Hiroshima", "Kyoto ve Hiroshima", "Nagasaki ve Yokohama"],
+        "dogru_cevap": "Nagasaki ve Hiroshima"
+      },
+      {
+        "soru": "Fransız İhtilali hangi yılda gerçekleşti?",
+        "secenekler": ["1789", "1804", "1776", "1750"],
+        "dogru_cevap": "1789"
+      },
+      {
+        "soru": "Karl Marx’ın yazdığı ünlü eser nedir?",
+        "secenekler": ["Kapital", "Savaş ve Barış", "Leviathan", "Faust"],
+        "dogru_cevap": "Kapital"
+      },
+      {
+        "soru": "Roma İmparatorluğu ikiye ne zaman ayrıldı?",
+        "secenekler": ["284", "395", "476", "509"],
+        "dogru_cevap": "395"
+      },
+      {
+        "soru": "Mısır'daki piramitler hangi döneme aittir?",
+        "secenekler": ["Orta Çağ", "Yeni Çağ", "İlk Çağ", "Yakın Çağ"],
+        "dogru_cevap": "İlk Çağ"
+      },
+      {
+        "soru": "Orta Çağ’ın en yıkıcı salgın hastalığı nedir?",
+        "secenekler": ["Veba", "Çiçek", "Tifo", "Kolera"],
+        "dogru_cevap": "Veba"
+      },
+      {
+        "soru": "ABD'nin ilk başkanı kimdir?",
+        "secenekler": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "Benjamin Franklin"],
+        "dogru_cevap": "George Washington"
+      },
+      {
+        "soru": "İngiltere'de Magna Carta hangi yıl imzalandı?",
+        "secenekler": ["1215", "1066", "1453", "1312"],
+        "dogru_cevap": "1215"
+      },
+      {
+        "soru": "Soğuk Savaş sırasında kurulan NATO hangi yıl oluşturuldu?",
+        "secenekler": ["1945", "1949", "1953", "1961"],
+        "dogru_cevap": "1949"
+      },
+      {
+        "soru": "Küba Füze Krizi hangi yılda yaşandı?",
+        "secenekler": ["1960", "1962", "1964", "1970"],
+        "dogru_cevap": "1962"
+      },
+      {
+        "soru": "İnsanlığın aya ilk ayak basması hangi yıl gerçekleşti?",
+        "secenekler": ["1967", "1968", "1969", "1970"],
+        "dogru_cevap": "1969"
+      },
+      {
+        "soru": "UNESCO Dünya Mirası Listesi ilk kez ne zaman oluşturuldu?",
+        "secenekler": ["1972", "1980", "1985", "1990"],
+        "dogru_cevap": "1972"
+      },
+      {
+        "soru": "Tarihte 'Demir Perde' terimi hangi dönemi ifade eder?",
+        "secenekler": ["Soğuk Savaş", "I. Dünya Savaşı", "Sanayi Devrimi", "Rönesans"],
+        "dogru_cevap": "Soğuk Savaş"
+      },
+      {
+        "soru": "İlk insan hakları beyannamesi olarak kabul edilen belge nedir?",
+        "secenekler": ["Magna Carta", "Bill of Rights", "İnsan ve Yurttaş Hakları Bildirisi", "Hammurabi Kanunları"],
+        "dogru_cevap": "İnsan ve Yurttaş Hakları Bildirisi"
+      },
+      {
+        "soru": "Tarihteki ilk yazılı antlaşma hangisidir?",
+        "secenekler": ["Kadeş Antlaşması", "Versay Antlaşması", "Sevr Antlaşması", "Tordesillas Antlaşması"],
+        "dogru_cevap": "Kadeş Antlaşması"
+      },
+      {
+        "soru": "Truva Savaşı hangi uygarlık döneminde geçmiştir?",
+        "secenekler": ["Yunan", "Roma", "Hitit", "Pers"],
+        "dogru_cevap": "Yunan"
+      },
+      {
+        "soru": "Jül Sezar nerede suikasta uğrayarak öldürülmüştür?",
+        "secenekler": ["Senato", "Colosseum", "Forum", "Pantheon"],
+        "dogru_cevap": "Senato"
+      },
+      {
+        "soru": "İngiltere Kraliçesi I. Elizabeth hangi çağda yaşamıştır?",
+        "secenekler": ["Yeni Çağ", "Yakın Çağ", "Orta Çağ", "İlk Çağ"],
+        "dogru_cevap": "Yeni Çağ"
+      },
+      {
+        "soru": "Reform hareketleri öncelikle hangi alanda başlamıştır?",
+        "secenekler": ["Dini", "Askeri", "Ekonomik", "Sanayi"],
+        "dogru_cevap": "Dini"
+      },
+      {
+        "soru": "İlk sanayi devrimi hangi ülkede başlamıştır?",
+        "secenekler": ["Fransa", "İngiltere", "Almanya", "ABD"],
+        "dogru_cevap": "İngiltere"
+      },
+      {
+        "soru": "Vietnam Savaşı'nda ABD'ye karşı zafer kazanan lider kimdir?",
+        "secenekler": ["Mao Zedong", "Ho Chi Minh", "Kim Jong Il", "Pol Pot"],
+        "dogru_cevap": "Ho Chi Minh"
+      },
+      {
+        "soru": "Martin Luther King hangi hareketin öncüsüdür?",
+        "secenekler": ["Sivil Haklar Hareketi", "Feminizm", "Antikomünizm", "Ekoloji"],
+        "dogru_cevap": "Sivil Haklar Hareketi"
+      },
+      {
+        "soru": "SSCB'nin dağılmasından sonra kurulan Rusya Federasyonu’nun ilk başkanı kimdir?",
+        "secenekler": ["Putin", "Medvedev", "Gorbaçov", "Yeltsin"],
+        "dogru_cevap": "Yeltsin"
+      },
+      {
+        "soru": "Barut ilk olarak hangi uygarlık tarafından kullanılmıştır?",
+        "secenekler": ["Araplar", "Avrupalılar", "Çinliler", "Hintliler"],
+        "dogru_cevap": "Çinliler"
+      },
+      {
+        "soru": "Spartacus hangi toplumda köle ayaklanmasına liderlik etmiştir?",
+        "secenekler": ["Yunan", "Mısır", "Roma", "Pers"],
+        "dogru_cevap": "Roma"
+      },
+      {
+        "soru": "Osmanlı ile Haçlılar arasında geçen Niğbolu Savaşı hangi tarihte olmuştur?",
+        "secenekler": ["1396", "1453", "1389", "1402"],
+        "dogru_cevap": "1396"
+      },
+      {
+        "soru": "İskenderiye Kütüphanesi hangi ülkede yer almaktadır?",
+        "secenekler": ["Yunanistan", "İtalya", "Mısır", "Türkiye"],
+        "dogru_cevap": "Mısır"
+      },
+      {
+        "soru": "Tarihte ilk meclis hangi uygarlığa aittir?",
+        "secenekler": ["Roma", "İngiltere", "Atina", "Fransa"],
+        "dogru_cevap": "Atina"
+      },
+      {
+        "soru": "Amerikan İç Savaşı'nın temel nedeni nedir?",
+        "secenekler": ["Vergi", "Kölelik", "Bağımsızlık", "Toprak anlaşmazlığı"],
+        "dogru_cevap": "Kölelik"
+      },
+      {
+        "soru": "Çin Seddi hangi hanedan döneminde tamamlanmıştır?",
+        "secenekler": ["Qing", "Tang", "Han", "Ming"],
+        "dogru_cevap": "Ming"
+      },
+      {
+        "soru": "Dünya Savaşı’ndan sonra kurulan Milletler Cemiyeti'nin merkezi neredeydi?",
+        "secenekler": ["Paris", "Londra", "Cenevre", "Berlin"],
+        "dogru_cevap": "Cenevre"
+      },
+      {
+        "soru": "Orta Çağ'da Avrupa’da yaygın olan feodal sistemde toprak sahiplerine ne denirdi?",
+        "secenekler": ["Serf", "Kral", "Lord", "Dük"],
+        "dogru_cevap": "Lord"
+      }
+    ],
+    "türk_tarihi": [
+      {
+        "soru": "Türklerin bilinen ilk devleti hangisidir?",
+        "secenekler": ["Göktürkler", "Hunlar", "Uygurlar", "Selçuklular"],
+        "dogru_cevap": "Hunlar"
+      },
+      {
+        "soru": "Malazgirt Meydan Muharebesi hangi tarihte yapılmıştır?",
+        "secenekler": ["1071", "1176", "1453", "1299"],
+        "dogru_cevap": "1071"
+      },
+      {
+        "soru": "Osmanlı Devleti’nin kurucusu kimdir?",
+        "secenekler": ["Orhan Bey", "Yavuz Sultan Selim", "Osman Bey", "Fatih Sultan Mehmet"],
+        "dogru_cevap": "Osman Bey"
+      },
+      {
+        "soru": "Türkiye Cumhuriyeti ne zaman kuruldu?",
+        "secenekler": ["1920", "1921", "1922", "1923"],
+        "dogru_cevap": "1923"
+      },
+      {
+        "soru": "Kurtuluş Savaşı'nın ilk silahlı direnişi nerede başladı?",
+        "secenekler": ["Sakarya", "İzmir", "Maraş", "Kuva-yi Milliye"],
+        "dogru_cevap": "Kuva-yi Milliye"
+      },
+      {
+        "soru": "İlk Türk alfabesi hangisidir?",
+        "secenekler": ["Arap Alfabesi", "Göktürk Alfabesi", "Latin Alfabesi", "Uygur Alfabesi"],
+        "dogru_cevap": "Göktürk Alfabesi"
+      },
+      {
+        "soru": "Osmanlı Devleti en geniş sınırlarına hangi padişah döneminde ulaşmıştır?",
+        "secenekler": ["Kanuni Sultan Süleyman", "Yavuz Sultan Selim", "Fatih Sultan Mehmet", "II. Murad"],
+        "dogru_cevap": "Kanuni Sultan Süleyman"
+      },
+      {
+        "soru": "Atatürk’ün Samsun’a çıkışı hangi tarihte olmuştur?",
+        "secenekler": ["23 Nisan 1920", "19 Mayıs 1919", "30 Ağustos 1922", "29 Ekim 1923"],
+        "dogru_cevap": "19 Mayıs 1919"
+      },
+      {
+        "soru": "İlk Türk denizci beyliği hangisidir?",
+        "secenekler": ["Karamanoğulları", "Candaroğulları", "Çaka Beyliği", "Artuklular"],
+        "dogru_cevap": "Çaka Beyliği"
+      },
+      {
+        "soru": "Osmanlı Devleti’nin başkenti sırasıyla hangi şehirler olmuştur?",
+        "secenekler": ["Bursa - Edirne - İstanbul", "Konya - Edirne - İstanbul", "İznik - Bursa - İstanbul", "Bursa - İstanbul - Ankara"],
+        "dogru_cevap": "Bursa - Edirne - İstanbul"
+      },
+      {
+        "soru": "Saltanat ne zaman kaldırılmıştır?",
+        "secenekler": ["1920", "1922", "1923", "1924"],
+        "dogru_cevap": "1922"
+      },
+      {
+        "soru": "Türkiye’nin ilk anayasası hangisidir?",
+        "secenekler": ["Teşkilat-ı Esasiye", "Kanun-i Esasi", "1982 Anayasası", "1961 Anayasası"],
+        "dogru_cevap": "Kanun-i Esasi"
+      },
+      {
+        "soru": "Osmanlı Devleti’nde tımar sistemi neyi düzenlerdi?",
+        "secenekler": ["Vergi toplama", "Asker yetiştirme", "Toprak yönetimi", "Eğitim sistemi"],
+        "dogru_cevap": "Toprak yönetimi"
+      },
+      {
+        "soru": "Anadolu Selçuklu Devleti'nin başkenti neresiydi?",
+        "secenekler": ["Konya", "Kayseri", "Sivas", "Ankara"],
+        "dogru_cevap": "Konya"
+      },
+      {
+        "soru": "Sakarya Meydan Muharebesi kaç gün sürmüştür?",
+        "secenekler": ["3", "10", "13", "22"],
+        "dogru_cevap": "22"
+      },
+      {
+        "soru": "Cumhuriyet rejimi Türkiye’de ne zaman ilan edilmiştir?",
+        "secenekler": ["23 Nisan 1920", "29 Ekim 1923", "3 Mart 1924", "1 Kasım 1922"],
+        "dogru_cevap": "29 Ekim 1923"
+      },
+      {
+        "soru": "Hangi savaş sonunda Anadolu kapıları Türklere açılmıştır?",
+        "secenekler": ["Sakarya Savaşı", "Malazgirt Savaşı", "Miryokefalon Savaşı", "Kösedağ Savaşı"],
+        "dogru_cevap": "Malazgirt Savaşı"
+      },
+      {
+        "soru": "İstiklal Marşı’nın yazarı kimdir?",
+        "secenekler": ["Mehmet Akif Ersoy", "Namık Kemal", "Ziya Gökalp", "Tevfik Fikret"],
+        "dogru_cevap": "Mehmet Akif Ersoy"
+      },
+      {
+        "soru": "Tanzimat Fermanı hangi padişah döneminde ilan edilmiştir?",
+        "secenekler": ["II. Mahmud", "Abdülmecid", "II. Abdülhamid", "III. Selim"],
+        "dogru_cevap": "Abdülmecid"
+      },
+      {
+        "soru": "Kapitülasyonlar ne zaman tamamen kaldırılmıştır?",
+        "secenekler": ["1920", "1923", "1929", "1931"],
+        "dogru_cevap": "1923"
+      },
+      {
+        "soru": "Lozan Antlaşması hangi yılda imzalanmıştır?",
+        "secenekler": ["1920", "1921", "1923", "1924"],
+        "dogru_cevap": "1923"
+      },
+      {
+        "soru": "Kösedağ Savaşı sonucunda Anadolu Selçuklu Devleti hangi devlete bağlı hâle geldi?",
+        "secenekler": ["Moğollar", "Osmanlılar", "Bizans", "Memlükler"],
+        "dogru_cevap": "Moğollar"
+      },
+      {
+        "soru": "Osmanlı Devleti ilk deniz savaşını kime karşı yapmıştır?",
+        "secenekler": ["Venedikliler", "Haçlılar", "Bizans", "Cenevizliler"],
+        "dogru_cevap": "Venedikliler"
+      },
+      {
+        "soru": "Atatürk'ün soyadı kanunu öncesindeki adı nedir?",
+        "secenekler": ["Gazi Mustafa Kemal Paşa", "Kemal Atatürk", "Mustafa Kemal Öz", "Kemal Paşa"],
+        "dogru_cevap": "Gazi Mustafa Kemal Paşa"
+      },
+      {
+        "soru": "İlk Osmanlı parasını bastıran padişah kimdir?",
+        "secenekler": ["Osman Gazi", "Orhan Gazi", "Yıldırım Bayezid", "I. Murad"],
+        "dogru_cevap": "Orhan Gazi"
+      },
+      {
+        "soru": "Türklerin İslamiyet’i kabul ettiği savaş hangisidir?",
+        "secenekler": ["Talas Savaşı", "Malazgirt Savaşı", "Pasinler Savaşı", "Miryokefalon Savaşı"],
+        "dogru_cevap": "Talas Savaşı"
+      },
+      {
+        "soru": "Osmanlı Devleti'nde ilk anayasa ne zaman ilan edilmiştir?",
+        "secenekler": ["1876", "1908", "1921", "1839"],
+        "dogru_cevap": "1876"
+      },
+      {
+        "soru": "İlk Osmanlı-Haçlı savaşı hangisidir?",
+        "secenekler": ["Niğbolu", "Varna", "Sırpsındığı", "Birinci Kosova"],
+        "dogru_cevap": "Sırpsındığı"
+      },
+      {
+        "soru": "Osmanlı’da 'Divan-ı Hümayun' nedir?",
+        "secenekler": ["Askeri okul", "Padişahın konutu", "Yasama organı", "Devlet meclisi"],
+        "dogru_cevap": "Devlet meclisi"
+      },
+      {
+        "soru": "II. Abdülhamid döneminde açılan ilk modern üniversite hangisidir?",
+        "secenekler": ["Darülfünun", "Mekteb-i Mülkiye", "Galatasaray Lisesi", "Harp Okulu"],
+        "dogru_cevap": "Darülfünun"
+      },
+      {
+        "soru": "Mustafa Kemal Atatürk'ün doğum yeri neresidir?",
+        "secenekler": ["İstanbul", "Samsun", "Selanik", "Ankara"],
+        "dogru_cevap": "Selanik"
+      },
+      {
+        "soru": "Cumhuriyetin ilanından sonra kurulan ilk siyasi parti hangisidir?",
+        "secenekler": ["Terakkiperver Cumhuriyet Fırkası", "CHP", "DP", "Halk Fırkası"],
+        "dogru_cevap": "CHP"
+      },
+      {
+        "soru": "Atatürk’ün katıldığı ilk savaş hangisidir?",
+        "secenekler": ["Trablusgarp Savaşı", "I. Dünya Savaşı", "Balkan Savaşları", "Çanakkale Savaşı"],
+        "dogru_cevap": "Trablusgarp Savaşı"
+      },
+      {
+        "soru": "Osmanlı Devleti'nde halifelik hangi padişahla Osmanlılara geçti?",
+        "secenekler": ["Yavuz Sultan Selim", "Kanuni Sultan Süleyman", "II. Bayezid", "I. Murad"],
+        "dogru_cevap": "Yavuz Sultan Selim"
+      },
+      {
+        "soru": "İstanbul’un fethi hangi tarihte gerçekleşmiştir?",
+        "secenekler": ["1453", "1071", "1299", "1923"],
+        "dogru_cevap": "1453"
+      },
+      {
+        "soru": "Cumhuriyet döneminde yapılan ilk devrim hangisidir?",
+        "secenekler": ["Şapka Devrimi", "Saltanatın Kaldırılması", "Harf Devrimi", "Kadınlara Seçme Hakkı"],
+        "dogru_cevap": "Saltanatın Kaldırılması"
+      },
+      {
+        "soru": "Atatürk ilkeleri arasında yer almayan ilke hangisidir?",
+        "secenekler": ["Milliyetçilik", "Devletçilik", "Dinîlik", "Laiklik"],
+        "dogru_cevap": "Dinîlik"
+      },
+      {
+        "soru": "Osmanlı Devleti’nde devşirme sistemi neyi amaçlardı?",
+        "secenekler": ["Vergi toplamayı", "Askeri güç oluşturmayı", "Toprak dağıtımını", "Diplomasi yürütmeyi"],
+        "dogru_cevap": "Askeri güç oluşturmayı"
+      },
+      {
+        "soru": "Atatürk'ün naaşı bugün hangi anıt mezarda bulunmaktadır?",
+        "secenekler": ["Dolmabahçe Sarayı", "Çankaya Köşkü", "Anıtkabir", "Etnoğrafya Müzesi"],
+        "dogru_cevap": "Anıtkabir"
+      },
+      {
+        "soru": "Kapitülasyonları ilk kez kaldıran Türk lider kimdir?",
+        "secenekler": ["Fatih Sultan Mehmet", "II. Abdülhamid", "Mustafa Kemal Atatürk", "Enver Paşa"],
+        "dogru_cevap": "Mustafa Kemal Atatürk"
+      }
+    ],
+    "dizi_film": [
+      {
+        "soru": "İlk uzun metrajlı animasyon filmi hangisidir?",
+        "secenekler": ["Pinokyo", "Bambi", "Pamuk Prenses ve Yedi Cüceler", "Fantasia"],
+        "dogru_cevap": "Pamuk Prenses ve Yedi Cüceler"
+      },
+      {
+        "soru": "Titanic filminde yer alan ve En İyi Özgün Şarkı Oscar'ını kazanan şarkı hangisidir?",
+        "secenekler": ["My Heart Will Go On", "Endless Love", "It Must Have Been Love", "I Will Always Love You"],
+        "dogru_cevap": "My Heart Will Go On"
+      },
+      {
+        "soru": "La Casa de Papel dizisinde karakterler hangi şehir isimlerini kullanır?",
+        "secenekler": ["Madrid, Barselona, Sevilla", "Berlin, Tokyo, Nairobi", "Paris, Roma, Milano", "Londra, Lizbon, Atina"],
+        "dogru_cevap": "Berlin, Tokyo, Nairobi"
+      },
+      {
+        "soru": "Star Wars serisinde Rey karakterini kim canlandırmıştır?",
+        "secenekler": ["Daisy Ridley", "Natalie Portman", "Felicity Jones", "Emilia Clarke"],
+        "dogru_cevap": "Daisy Ridley"
+      },
+      {
+        "soru": "The Matrix filminde kullanılan kodlar hangi tür tariflerden türetilmiştir?",
+        "secenekler": ["Japon yemek tarifleri", "Çin yemek tarifleri", "İtalyan yemek tarifleri", "Meksika yemek tarifleri"],
+        "dogru_cevap": "Japon yemek tarifleri"
+      },
+      {
+        "soru": "Breaking Bad dizisinde Walter White'ın lakabı nedir?",
+        "secenekler": ["Heisenberg", "Gustavo", "Jesse", "Saul"],
+        "dogru_cevap": "Heisenberg"
+      },
+      {
+        "soru": "Friends dizisinde Ross'un kaç kez evlendiği belirtilmiştir?",
+        "secenekler": ["1", "2", "3", "4"],
+        "dogru_cevap": "3"
+      },
+      {
+        "soru": "Game of Thrones dizisinde Jon Snow'un ulukurdu'nun adı nedir?",
+        "secenekler": ["Hayalet", "Gölge", "Kurt", "Beyaz"],
+        "dogru_cevap": "Hayalet"
+      },
+      {
+        "soru": "The Godfather filminde 'Baba' lakabıyla anılan karakter kimdir?",
+        "secenekler": ["Michael Corleone", "Sonny Corleone", "Tom Hagen", "Vito Corleone"],
+        "dogru_cevap": "Vito Corleone"
+      },
+      {
+        "soru": "Harry Potter serisinde Harry'nin vaftiz babası kimdir?",
+        "secenekler": ["Remus Lupin", "Sirius Black", "Albus Dumbledore", "Severus Snape"],
+        "dogru_cevap": "Sirius Black"
+      },
+      {
+        "soru": "The Office dizisinde Michael Scott karakterini kim canlandırmıştır?",
+        "secenekler": ["Steve Carell", "Rainn Wilson", "John Krasinski", "Ed Helms"],
+        "dogru_cevap": "Steve Carell"
+      },
+      {
+        "soru": "Stranger Things dizisinde Eleven karakterini kim oynamaktadır?",
+        "secenekler": ["Millie Bobby Brown", "Sadie Sink", "Natalia Dyer", "Winona Ryder"],
+        "dogru_cevap": "Millie Bobby Brown"
+      },
+      {
+        "soru": "The Crown dizisi hangi kraliyet ailesini konu alır?",
+        "secenekler": ["İspanya Kraliyet Ailesi", "İngiltere Kraliyet Ailesi", "Fransa Kraliyet Ailesi", "İsveç Kraliyet Ailesi"],
+        "dogru_cevap": "İngiltere Kraliyet Ailesi"
+      },
+      {
+        "soru": "Sherlock dizisinde Sherlock Holmes'u kim canlandırmıştır?",
+        "secenekler": ["Benedict Cumberbatch", "Robert Downey Jr.", "Jonny Lee Miller", "Henry Cavill"],
+        "dogru_cevap": "Benedict Cumberbatch"
+      },
+      {
+        "soru": "The Mandalorian dizisinde başrol karakteri kimdir?",
+        "secenekler": ["Boba Fett", "Din Djarin", "Luke Skywalker", "Han Solo"],
+        "dogru_cevap": "Din Djarin"
+      },
+      {
+        "soru": "Black Mirror dizisi hangi türde eserler sunmaktadır?",
+        "secenekler": ["Komedi", "Romantik", "Bilim kurgu", "Belgesel"],
+        "dogru_cevap": "Bilim kurgu"
+      },
+      {
+        "soru": "The Simpsons dizisinde ailenin babasının adı nedir?",
+        "secenekler": ["Bart", "Homer", "Marge", "Ned"],
+        "dogru_cevap": "Homer"
+      },
+      {
+        "soru": "The Big Bang Theory dizisinde Sheldon Cooper'ın en iyi arkadaşı kimdir?",
+        "secenekler": ["Leonard", "Howard", "Raj", "Penny"],
+        "dogru_cevap": "Leonard"
+      },
+      {
+        "soru": "Breaking Bad dizisinde Walter White'ın eşi kimdir?",
+        "secenekler": ["Skyler", "Marie", "Jane", "Lydia"],
+        "dogru_cevap": "Skyler"
+      },
+      {
+        "soru": "House of Cards dizisinde Frank Underwood karakterini kim canlandırmıştır?",
+        "secenekler": ["Kevin Spacey", "Robin Wright", "Michael Kelly", "Corey Stoll"],
+        "dogru_cevap": "Kevin Spacey"
+      },
+      {
+        "soru": "Peaky Blinders dizisinde Thomas Shelby'nin liderlik ettiği çete hangi şehirde faaliyet gösterir?",
+        "secenekler": ["Londra", "Manchester", "Birmingham", "Liverpool"],
+        "dogru_cevap": "Birmingham"
+      },
+      {
+        "soru": "How I Met Your Mother dizisinde Barney Stinson'ın favori kıyafeti nedir?",
+        "secenekler": ["Kot ceket", "Takım elbise", "Deri mont", "Hırka"],
+        "dogru_cevap": "Takım elbise"
+      },
+      {
+        "soru": "Marvel Sinematik Evreni'nde Iron Man karakterini kim canlandırmıştır?",
+        "secenekler": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo"],
+        "dogru_cevap": "Robert Downey Jr."
+      },
+      {
+        "soru": "The Witcher dizisinde başrol Geralt'ı kim oynamaktadır?",
+        "secenekler": ["Henry Cavill", "Tom Hardy", "Matt Smith", "Pedro Pascal"],
+        "dogru_cevap": "Henry Cavill"
+      },
+      {
+        "soru": "Avatar (2009) filminin yönetmeni kimdir?",
+        "secenekler": ["James Cameron", "Steven Spielberg", "Christopher Nolan", "Ridley Scott"],
+        "dogru_cevap": "James Cameron"
+      },
+      {
+        "soru": "Interstellar filminde başroldeki bilim insanı Cooper’ı kim oynamıştır?",
+        "secenekler": ["Matthew McConaughey", "Leonardo DiCaprio", "Brad Pitt", "Christian Bale"],
+        "dogru_cevap": "Matthew McConaughey"
+      },
+      {
+        "soru": "Friends dizisinde Monica'nın mesleği nedir?",
+        "secenekler": ["Doktor", "Aşçı", "Avukat", "Öğretmen"],
+        "dogru_cevap": "Aşçı"
+      },
+      {
+        "soru": "Inception filminde karakterler rüyada kaç katman derine iner?",
+        "secenekler": ["2", "3", "4", "5"],
+        "dogru_cevap": "3"
+      },
+      {
+        "soru": "Dark dizisi hangi ülkede geçmektedir?",
+        "secenekler": ["Almanya", "İsviçre", "Avusturya", "İngiltere"],
+        "dogru_cevap": "Almanya"
+      },
+      {
+        "soru": "Squid Game dizisinde kazanan kişiye verilen ödül neydi?",
+        "secenekler": ["Altın madalya", "Yüklü para ödülü", "Yeni bir hayat", "Yurt dışına kaçış"],
+        "dogru_cevap": "Yüklü para ödülü"
+      },
+      {
+        "soru": "Joker (2019) filminde başrolü kim oynamıştır?",
+        "secenekler": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Christian Bale"],
+        "dogru_cevap": "Joaquin Phoenix"
+      },
+      {
+        "soru": "Pirates of the Caribbean serisinde Jack Sparrow karakterini kim canlandırır?",
+        "secenekler": ["Johnny Depp", "Orlando Bloom", "Tom Hanks", "Brad Pitt"],
+        "dogru_cevap": "Johnny Depp"
+      },
+      {
+        "soru": "The Hunger Games filminde başrol Katniss Everdeen’i kim oynamıştır?",
+        "secenekler": ["Emma Stone", "Jennifer Lawrence", "Emma Watson", "Natalie Portman"],
+        "dogru_cevap": "Jennifer Lawrence"
+      },
+      {
+        "soru": "The Lord of the Rings üçlemesi hangi yazarın eserinden uyarlanmıştır?",
+        "secenekler": ["J.K. Rowling", "George R.R. Martin", "J.R.R. Tolkien", "C.S. Lewis"],
+        "dogru_cevap": "J.R.R. Tolkien"
+      },
+      {
+        "soru": "The Queen’s Gambit dizisinde başrol karakterin tutkusu nedir?",
+        "secenekler": ["Satranç", "Bale", "Resim", "Yüzme"],
+        "dogru_cevap": "Satranç"
+      },
+      {
+        "soru": "Money Heist dizisinde Profesör’ün gerçek adı nedir?",
+        "secenekler": ["Sergio Marquina", "Andres de Fonollosa", "Pablo Ruiz", "Javier Torres"],
+        "dogru_cevap": "Sergio Marquina"
+      },
+      {
+        "soru": "Shrek filminde Eşek karakterini kim seslendirmiştir?",
+        "secenekler": ["Chris Rock", "Eddie Murphy", "Kevin Hart", "Will Smith"],
+        "dogru_cevap": "Eddie Murphy"
+      },
+      {
+        "soru": "Black Panther filminde Wakanda adlı ülke nerededir?",
+        "secenekler": ["Afrika", "Asya", "Amerika", "Avrupa"],
+        "dogru_cevap": "Afrika"
+      },
+      {
+        "soru": "The Truman Show filminde Truman karakteri ne zaman gerçek dünyayı fark eder?",
+        "secenekler": [
+          "Gökyüzünden projektör düşmesiyle",
+          "Kameraları fark edince",
+          "Bir çalışanla konuşunca",
+          "Annesiyle tartışınca"
+        ],
+        "dogru_cevap": "Gökyüzünden projektör düşmesiyle"
+      },
+      {
+        "soru": "Modern Family dizisi kaç sezon sürmüştür?",
+        "secenekler": ["9", "10", "11", "12"],
+        "dogru_cevap": "11"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,99 @@
+/* Sayfa arka planı ve yapı */
+body {
+  background: linear-gradient(135deg, #74ebd5 0%, #7ab5f7 50%, #ACB6E5 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Ana quiz kapsayıcısı */
+.quiz-page-container {
+  max-width: 700px;
+  margin: auto;
+ 
+  background-color: #8dedee;
+  padding: 40px 30px;
+  border-radius: 20px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+}
+
+/* Kategori başlığı */
+.quiz-category-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #2b2b2b;
+  text-align: center;
+}
+
+/* Soru metni */
+.quiz-question {
+  font-size: 1.25rem;
+  color: #333;
+  text-align: center;
+  padding: 0 10px;
+}
+
+/* Seçenek butonları */
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.quiz-options button {
+  padding: 12px;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 500;
+  border: 2px solid #3a7bd5;
+  background-color: white;
+  color: #3a7bd5;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.quiz-options button:hover {
+  background-color: #3a7bd5;
+  color: white;
+  transform: translateY(-2px);
+}
+
+/* Başlat ve bitiş butonları */
+#start-btn,
+.btn-success {
+  padding: 12px 25px;
+  font-size: 1.1rem;
+  border-radius: 12px;
+  background-color: #2bbab7;
+  border: none;
+  color: white;
+  transition: 0.3s ease;
+}
+
+#start-btn:hover,
+.btn-success:hover {
+  background-color: #259391;
+  transform: scale(1.05);
+}
+
+/* Quiz sonucu bölümü */
+#sonuc {
+  text-align: center;
+}
+
+#sonuc h3 {
+  font-weight: bold;
+  color: #198754;
+  margin-bottom: 10px;
+}
+
+#sonuc p {
+  font-size: 1.2rem;
+  color: black;
+  padding: 10px;
+}
